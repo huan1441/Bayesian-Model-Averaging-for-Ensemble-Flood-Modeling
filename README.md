@@ -1,5 +1,5 @@
 # Bayesian Model Averaging for Ensemble Flood Modeling
-These Python scripts are developed for estimating the Bayesian Model Averaging (BMA) parameters (weights and variances) of ensemble flood modeling by using the Expectation-Maximization (EM) algorithm and the multiple Markov Chains Monte Carlo (MCMC) algorithm. For more information, please refer to the manuscript, “[<b><i> Improving Bayesian Model Averaging for Ensemble Flood Modeling Using Multiple Markov Chains Monte Carlo Sampling </b></i>](https://www.authorea.com/doi/full/10.22541/essoar.168056821.18559558)” (Huang and Merwade, 2023).
+These Python scripts are developed for estimating the Bayesian Model Averaging (BMA) parameters (weights and variances) of ensemble flood modeling by using the Expectation-Maximization (EM) algorithm and the multiple Markov Chains Monte Carlo (MCMC) algorithm. For more information, please refer to the paper, “[<b><i> Improving Bayesian Model Averaging for Ensemble Flood Modeling Using Multiple Markov Chains Monte Carlo Sampling </b></i>](https://www.authorea.com/doi/full/10.22541/essoar.168056821.18559558)” (Huang and Merwade, 2023).
 
 A brief introduction to the features of each Python script is as follows.
 
