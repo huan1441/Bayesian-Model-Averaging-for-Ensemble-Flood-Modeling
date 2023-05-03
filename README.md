@@ -11,7 +11,7 @@ A brief introduction to the features of each Python script is as follows.
 
 (3.2) [3.2-BMA_MCMC_Normal_Gamma.py](https://github.com/huan1441/Bayesian-Model-Averaging-for-Ensemble-Flood-Modeling/blob/main/3.2-BMA_MCMC_Normal_Gamma.py) is developed to estimate BMA parameters by using the Metropolis-Hastings MCMC algorithm, in which the proposal distribution is the normal distribution and the conditional PDF of observed data is Gamma instead of Normal.
 
-(3.3) [3.3-BMA_MCMC_PostProcess.py](https://github.com/huan1441/Bayesian-Model-Averaging-for-Ensemble-Flood-Modeling/blob/main/3.3-BMA_MCMC_PostProcess.py) is developed to post-process (trace plots, ACFs, histograms) for BMA parameters from M-H MCMC Algorithm.
+(3.3) [3.3-BMA_MCMC_PostProcess.py](https://github.com/huan1441/Bayesian-Model-Averaging-for-Ensemble-Flood-Modeling/blob/main/3.3-BMA_MCMC_PostProcess.py) is developed to post-process (trace plots, ACFs, histograms) BMA parameters from M-H MCMC Algorithm.
 
 (4.1) [4.1-Sampling_BMA_Normal.py](https://github.com/huan1441/Bayesian-Model-Averaging-for-Ensemble-Flood-Modeling/blob/main/4.1-Sampling_BMA_Normal.py) is developed to sample water stage predictions based on BMA parameters (Normal PDF).
 
